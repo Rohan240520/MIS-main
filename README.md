@@ -1,7 +1,7 @@
 # MIS & Invoicing System
 
 ## 🌐 Live URL
-- **Frontend**: [Netlify Link](https://heroic-cupcake-046906.netlify.app)
+- **Frontend**: [Vercal Link](https://mis-main.vercel.app/login)
 - **Backend**: Hosted on Render
 - ⏳ Note: The backend is deployed on a free server (Render). It may take 3-4 minutes to wake up if inactive. Please wait for the first request to process.
 
@@ -149,6 +149,4 @@ npm run dev
 ## 📜 License
 This project is licensed under the MIT License.
 
----
-### 📞 Contact
-For any issues or improvements, feel free to open an **issue** or submit a **pull request**. 🚀
+
