@@ -35,7 +35,7 @@ This project consists of a **Spring Boot REST API** as the backend and a **React
 - **Styling**: Material UI
 - **Hosting**:
   - **Backend**: Render (via Docker Hub)
-  - **Frontend**: Netlify
+  - **Frontend**: Versal
 
 ## 📂 Backend Project Structure
 ```
